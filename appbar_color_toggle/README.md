@@ -4,7 +4,7 @@ A new Flutter project.
 
 **Description**
 
- The Color Toggle App is a simple mobile application that allows users to toggle between different background colors by pressing a button. This app demonstrates basic state management and UI updates in a       flutter/dart framework.
+ The Color Toggle AppBar is a simple mobile application that allows users to toggle between different background colors of AppBar by pressing a button. This app demonstrates basic state management and UI updates in a flutter/dart framework.
 
 
 **Features**
